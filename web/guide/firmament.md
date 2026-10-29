@@ -9,7 +9,7 @@ related: topic:Firmament
 > [!NOTE]
 > The initial commit of this page was prepared with the assistance of AI tools. Readers are encouraged to verify the information against the game and official sources, and to contribute corrections and improvements.
 >
-> **Applies to:** DFO Online, online mode. Verified against Update 0.0.466 (`app-v0.1.12948`), 28 October 2026.
+> **Applies to:** DFO Online, online mode. Verified against Update 0.0.482 (`app-v0.1.13063`), 29 October 2026.
 
 ## Overview
 
@@ -207,10 +207,10 @@ The Summary panel can display the bonuses of an allocation even when they are in
 
 The online account service validates accepted changes, including point balances, connections, and refund costs. Invalid allocations are rejected.[^server]
 
-[^tree]: [Firmament tree and birthsigns](https://github.com/Lattymoy/daggerfall-js-source/blob/app-v0.1.12948/src/net/firmament/firmamentTree.js)
-[^law]: [Points, allocation rules, refunds, and caps](https://github.com/Lattymoy/daggerfall-js-source/blob/app-v0.1.12948/src/net/firmament/firmamentLaw.js)
-[^controls]: [Interface, controls, and terminology](https://github.com/Lattymoy/daggerfall-js-source/blob/app-v0.1.12948/src/ui/firmamentWindow.js)
-[^live]: [Online status and mentoring](https://github.com/Lattymoy/daggerfall-js-source/blob/app-v0.1.12948/src/systems/firmamentLive.js)
-[^powers]: [Combat effects and PvP restrictions](https://github.com/Lattymoy/daggerfall-js-source/blob/app-v0.1.12948/src/systems/firmamentPowers.js)
-[^server]: [Server-side validation and respecs](https://github.com/Lattymoy/daggerfall-js-source/blob/app-v0.1.12948/server-account/src/firmament.js)
+[^tree]: [Firmament tree and birthsigns](https://github.com/Lattymoy/daggerfall-js-source/blob/app-v0.1.13063/src/net/firmament/firmamentTree.js)
+[^law]: [Points, allocation rules, refunds, and caps](https://github.com/Lattymoy/daggerfall-js-source/blob/app-v0.1.13063/src/net/firmament/firmamentLaw.js)
+[^controls]: [Interface, controls, and terminology](https://github.com/Lattymoy/daggerfall-js-source/blob/app-v0.1.13063/src/ui/firmamentWindow.js)
+[^live]: [Online status and mentoring](https://github.com/Lattymoy/daggerfall-js-source/blob/app-v0.1.13063/src/systems/firmamentLive.js)
+[^powers]: [Combat effects and PvP restrictions](https://github.com/Lattymoy/daggerfall-js-source/blob/app-v0.1.13063/src/systems/firmamentPowers.js)
+[^server]: [Server-side validation and respecs](https://github.com/Lattymoy/daggerfall-js-source/blob/app-v0.1.13063/server-account/src/firmament.js)
 [^pvp]: [Update 0.0.461: Player fights](https://github.com/Lattymoy/daggerfall-js-source/releases/tag/app-v0.1.12919)

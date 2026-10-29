@@ -7,7 +7,7 @@ related: topic:Renown
 ---
 
 > [!NOTE]
-> **Applies to:** Online play. Verified against the source code for Update **0.0.468** (2026-10-28; `app-v0.1.12955`).
+> **Applies to:** Online play. Verified against the source code for Update **0.0.482** (2026-10-29; `app-v0.1.13063`).
 >
 > The initial commit of this page was prepared with the assistance of AI tools. Readers are encouraged to verify the information against the game and official sources, and to contribute corrections and improvements.
 
@@ -107,18 +107,18 @@ The game's servers enforce the following limits:[^tracks][^renown]
 
 Writ rewards are an exception to the hourly XP allowance: their Renown is awarded separately from the standard hourly report system.[^writs][^craft-writs]
 
-[^renown]: [Renown implementation](https://github.com/Lattymoy/daggerfall-js-source/blob/app-v0.1.12955/src/net/renown.js)
-[^combat]: [Combat tracking](https://github.com/Lattymoy/daggerfall-js-source/blob/app-v0.1.12955/src/net/renownTracker.js)
-[^arena]: [Arena rewards](https://github.com/Lattymoy/daggerfall-js-source/blob/app-v0.1.12955/server-account/src/arena.js)
-[^raids]: [Raid rewards](https://github.com/Lattymoy/daggerfall-js-source/blob/app-v0.1.12955/server-account/src/raids.js)
-[^stars]: [Fallen star rewards](https://github.com/Lattymoy/daggerfall-js-source/blob/app-v0.1.12955/server-account/src/stars.js)
-[^serpents]: [Sea serpent rewards](https://github.com/Lattymoy/daggerfall-js-source/blob/app-v0.1.12955/server-account/src/serpents.js)
-[^writs]: [Gathering writ rewards](https://github.com/Lattymoy/daggerfall-js-source/blob/app-v0.1.12955/server-account/src/professions.js)
-[^craft-writs]: [Crafting writ delivery](https://github.com/Lattymoy/daggerfall-js-source/blob/app-v0.1.12955/server-account/src/craftWrits.js)
-[^bonuses]: [Renown bonuses](https://github.com/Lattymoy/daggerfall-js-source/blob/app-v0.1.12955/src/systems/renownLayer.js)
-[^sigils]: [Sigil stages](https://github.com/Lattymoy/daggerfall-js-source/blob/app-v0.1.12955/src/systems/sigil/sigil.js)
-[^loot]: [Renown-based loot](https://github.com/Lattymoy/daggerfall-js-source/blob/app-v0.1.12955/src/systems/renownLoot.js)
-[^elite]: [Elite enemies](https://github.com/Lattymoy/daggerfall-js-source/blob/app-v0.1.12955/src/systems/eliteFoes.js)
-[^revenants]: [Revenants](https://github.com/Lattymoy/daggerfall-js-source/blob/app-v0.1.12955/src/systems/revenant/revenant.js)
-[^hud]: [HUD implementation](https://github.com/Lattymoy/daggerfall-js-source/blob/app-v0.1.12955/src/ui/hud/hudRenown.js)
-[^tracks]: [Account-side Renown tracking](https://github.com/Lattymoy/daggerfall-js-source/blob/app-v0.1.12955/server-account/src/renownTracks.js)
+[^renown]: [Renown implementation](https://github.com/Lattymoy/daggerfall-js-source/blob/app-v0.1.13063/src/net/renown.js)
+[^combat]: [Combat tracking](https://github.com/Lattymoy/daggerfall-js-source/blob/app-v0.1.13063/src/net/renownTracker.js)
+[^arena]: [Arena rewards](https://github.com/Lattymoy/daggerfall-js-source/blob/app-v0.1.13063/server-account/src/arena.js)
+[^raids]: [Raid rewards](https://github.com/Lattymoy/daggerfall-js-source/blob/app-v0.1.13063/server-account/src/raids.js)
+[^stars]: [Fallen star rewards](https://github.com/Lattymoy/daggerfall-js-source/blob/app-v0.1.13063/server-account/src/stars.js)
+[^serpents]: [Sea serpent rewards](https://github.com/Lattymoy/daggerfall-js-source/blob/app-v0.1.13063/server-account/src/serpents.js)
+[^writs]: [Gathering writ rewards](https://github.com/Lattymoy/daggerfall-js-source/blob/app-v0.1.13063/server-account/src/professions.js)
+[^craft-writs]: [Crafting writ delivery](https://github.com/Lattymoy/daggerfall-js-source/blob/app-v0.1.13063/server-account/src/craftWrits.js)
+[^bonuses]: [Renown bonuses](https://github.com/Lattymoy/daggerfall-js-source/blob/app-v0.1.13063/src/systems/renownLayer.js)
+[^sigils]: [Sigil stages](https://github.com/Lattymoy/daggerfall-js-source/blob/app-v0.1.13063/src/systems/sigil/sigil.js)
+[^loot]: [Renown-based loot](https://github.com/Lattymoy/daggerfall-js-source/blob/app-v0.1.13063/src/systems/renownLoot.js)
+[^elite]: [Elite enemies](https://github.com/Lattymoy/daggerfall-js-source/blob/app-v0.1.13063/src/systems/eliteFoes.js)
+[^revenants]: [Revenants](https://github.com/Lattymoy/daggerfall-js-source/blob/app-v0.1.13063/src/systems/revenant/revenant.js)
+[^hud]: [HUD implementation](https://github.com/Lattymoy/daggerfall-js-source/blob/app-v0.1.13063/src/ui/hud/hudRenown.js)
+[^tracks]: [Account-side Renown tracking](https://github.com/Lattymoy/daggerfall-js-source/blob/app-v0.1.13063/server-account/src/renownTracks.js)
