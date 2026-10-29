@@ -15,6 +15,8 @@ Renown is a separate progression level earned through online activities. It exis
 
 Renown is tracked separately for each character and stored on the game's servers rather than in the Daggerfall save file. Playing offline does not earn Renown XP, and the additional attributes granted by Renown are not applied offline.
 
+![The online HUD showing Magicka, Health, Fatigue and the Renown XP bar at level 16.](images/renown-hud.png "Renown progress in the HUD."){right 420}
+
 ## Earning Renown
 
 Renown XP comes from combat, quests, Arena victories, world events and completed writs. Rewards are credited to the character that earned or claimed them. Most sources use the same account-wide limit of **15,000 XP per clock hour**; gathering and crafting writ rewards are credited separately and do not use that hourly allowance. No source can raise a character above Renown 50.
