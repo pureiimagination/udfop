@@ -1,13 +1,15 @@
 ---
 title: The Sky-Ketch (WIP)
 category: World Events
-summary: Draft outline only; page content has not been written.
+summary: Brief overview; detailed mechanics are not documented yet.
 ---
 > [!NOTE]
 > **Work In Progress:** This page is a draft and may be incomplete.
 
 
 ## Overview
+
+The Sky-Ketch is a Dwarven airship voyage that players undertake as a crew. The party fights through encounters on board and faces the Tonal Warden as part of the voyage.
 
 ## Schedule and location
 

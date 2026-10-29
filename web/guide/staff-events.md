@@ -1,13 +1,15 @@
 ---
 title: Staff Events (WIP)
 category: World Events
-summary: Draft outline only; page content has not been written.
+summary: Brief overview; detailed mechanics are not documented yet.
 ---
 > [!NOTE]
 > **Work In Progress:** This page is a draft and may be incomplete.
 
 
 ## Overview
+
+Staff Events are temporary encounters configured by game staff, with a chosen location and creatures. Some can feature a mini-boss, including the Dwarven Dragon.
 
 ## Joining an event
 
