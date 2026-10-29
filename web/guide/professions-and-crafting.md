@@ -1,5 +1,5 @@
 ---
-title: Professions and Crafting
+title: Professions and Crafting (WIP)
 category: Character
 summary: Draft outline only; page content has not been written.
 ---

@@ -1,5 +1,5 @@
 ---
-title: Daggerfall Leveling System
+title: Daggerfall Leveling System (WIP)
 category: Character
 summary: Draft outline only; page content has not been written.
 ---
