@@ -1,5 +1,5 @@
 ---
-title: The Sea Serpent
+title: The Sea Serpent (WIP)
 category: World Events
 summary: Draft outline only; page content has not been written.
 ---

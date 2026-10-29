@@ -1,5 +1,5 @@
 ---
-title: Staff Events
+title: Staff Events (WIP)
 category: World Events
 summary: Draft outline only; page content has not been written.
 ---
