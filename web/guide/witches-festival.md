@@ -1,5 +1,5 @@
 ---
-title: Witches Festival
+title: Witches Festival (WIP)
 category: World Events
 summary: Draft outline only; page content has not been written.
 ---

@@ -1,5 +1,5 @@
 ---
-title: Town Raids
+title: Town Raids (WIP)
 category: World Events
 summary: Draft outline only; page content has not been written.
 ---

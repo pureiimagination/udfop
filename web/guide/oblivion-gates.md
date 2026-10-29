@@ -1,5 +1,5 @@
 ---
-title: Oblivion Gates
+title: Oblivion Gates (WIP)
 category: World Events
 summary: Draft outline only; page content has not been written.
 ---
