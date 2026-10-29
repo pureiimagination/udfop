@@ -4,7 +4,7 @@ category: World Events
 summary: Draft outline only; page content has not been written.
 ---
 > [!NOTE]
-> **Work In Progress:** This page is a draft and may be incomplete.
+> **Work In Progress:** Page structure only; content has not been added yet.
 
 
 ## Overview
