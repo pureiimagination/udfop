@@ -9,15 +9,15 @@ related: topic:Firmament
 > [!NOTE]
 > The initial commit of this page was prepared with the assistance of AI tools. Readers are encouraged to verify the information against the game and official sources, and to contribute corrections and improvements.
 >
-> **Applies to:** DFO Online, online mode. Verified against Update 0.0.466 (`app-v0.1.12948`), 28 October 2026.
+> **Applies to:** DFO Online, online mode. Verified against Update 0.0.482 (`app-v0.1.13063`), 29 October 2026.
 
 ## Overview
 
 ![The Firmament interface showing the progression tree, Stars and Craft points, and a highlighted path.](images/firmament-tree.png "The Firmament progression tree and its controls."){right 240}
 
-Firmament is a passive progression system in DFO Online. Its tree contains 518 interconnected stars that provide bonuses to combat, magic, professions, trade, and exploration.
+Firmament is a passive progression system in DFO Online. Its tree contains 518 interconnected stars that provide bonuses to combat, magic, professions, trade, and exploration.[^tree]
 
-A character develops their allocation by selecting a birthsign and spending points along connected paths. Firmament is accessed through **Pause Menu → Growth → Firmament**.
+A character develops their allocation by selecting a birthsign and spending points along connected paths. Firmament is accessed through **Pause Menu → Growth → Firmament**.[^controls]
 
 ## Terminology
 
@@ -35,18 +35,18 @@ The game uses *star* for both an element of the tree and a type of spendable poi
 
 | Points | Acquisition | Allocation | Maximum |
 |---|---|---|---|
-| Stars | 2 for each [[topic:Renown]] level after level 1 | Any star | 98 at Renown 50 |
+| Stars | 2 for each [[Renown]] level after level 1 | Any star | 98 at Renown 50 |
 | Craft points | 1 for every 8 combined profession ranks | Craft stars only | 125 |
 
-Profession ranks are summed across all ten [[topic:Professions]], each with a maximum rank of 100. When Craft stars are allocated, available Craft points are spent before Stars.
+Profession ranks are summed across all ten [[topic:Professions]], each with a maximum rank of 100. When Craft stars are allocated, available Craft points are spent before Stars.[^law]
 
-The point balances appear at the top of the Firmament window.
+The point balances appear at the top of the Firmament window.[^controls]
 
 ## Birthsigns and paths
 
 ### Birthsigns
 
-A character selects one of seven birthsigns. Six are arranged around the inner tree, while The Serpent is located at its centre. The initial selection is free.
+A character selects one of seven birthsigns. Six are arranged around the inner tree, while The Serpent is located at its centre. The initial selection is free.[^tree]
 
 | Birthsign | Combat focus | Non-combat focus |
 |---|---|---|
@@ -60,11 +60,11 @@ A character selects one of seven birthsigns. Six are arranged around the inner t
 
 ### Paths
 
-Every allocated star must be connected to the selected birthsign. Selecting an unallocated star adds the shortest available path to it, including any required intermediate stars, provided the character has enough points.
+Every allocated star must be connected to the selected birthsign. Selecting an unallocated star adds the shortest available path to it, including any required intermediate stars, provided the character has enough points.[^law]
 
 Paths cannot pass through another birthsign or continue through a keystone.
 
-Changes remain provisional until **Accept** is selected. **Discard changes** restores the last accepted allocation. The **Summary** panel displays the combined bonuses of the current selection.
+Changes remain provisional until **Accept** is selected. **Discard changes** restores the last accepted allocation. The **Summary** panel displays the combined bonuses of the current selection.[^controls]
 
 ### Controls
 
@@ -82,24 +82,24 @@ Changes remain provisional until **Accept** is selected. **Discard changes** res
 
 ### Refunds
 
-Removing an allocated star also removes any stars that depend on it for their only connection to the birthsign. The confirmation displays the number of affected stars and the total cost.
+Removing an allocated star also removes any stars that depend on it for their only connection to the birthsign. The confirmation displays the number of affected stars and the total cost.[^law]
 
 | Renown | Cost per removed accepted star |
 |---|---|
 | Below 10 | Free |
 | 10 or higher | 10 silver |
 
-Stars added only in the current, unaccepted preview can be removed without charge.
+Stars added only in the current, unaccepted preview can be removed without charge.[^law]
 
 ### Respecs
 
-The **Respec** action removes the birthsign and all allocated stars, returning their points. A full respec costs **10,000 gold**, with no additional silver charge. Payment is taken from carried gold first, followed by banked gold.
+The **Respec** action removes the birthsign and all allocated stars, returning their points. A full respec costs **10,000 gold**, with no additional silver charge. Payment is taken from carried gold first, followed by banked gold.[^server]
 
 Right-clicking the selected birthsign also clears the planned allocation so another can be chosen. Unlike a full respec, this follows the normal refund rules when previously accepted stars are removed.
 
 ## Build sharing
 
-Firmament allocations can be exported and imported using build codes beginning with `FIRM-`.
+Firmament allocations can be exported and imported using build codes beginning with `FIRM-`.[^controls]
 
 ### Exporting
 
@@ -113,11 +113,11 @@ Paste a code into **Load a build code** and select **Load**. The imported alloca
 
 ### Combat bonuses
 
-Combat stars can improve attributes and combat skills, weapon and spell damage, casting speed and spell costs, maximum Health and Spell Points, regeneration, armour, resistances, evasion, and other defensive abilities. Some effects depend on the enemy type or the conditions of a fight.
+Combat stars can improve attributes and combat skills, weapon and spell damage, casting speed and spell costs, maximum Health and Spell Points, regeneration, armour, resistances, evasion, and other defensive abilities. Some effects depend on the enemy type or the conditions of a fight.[^powers]
 
 ### Crafting and trade bonuses
 
-Craft stars can improve gathering yields, profession experience, non-combat skills, carrying capacity, sailing, travel, and environmental resistance.
+Craft stars can improve gathering yields, profession experience, non-combat skills, carrying capacity, sailing, travel, and environmental resistance.[^tree]
 
 ## Restrictions
 
@@ -126,32 +126,32 @@ Craft stars can improve gathering yields, profession experience, non-combat skil
 > [!IMPORTANT]
 > All Firmament bonuses are inactive in offline mode, including combat, crafting, trade, and exploration effects.
 
-Firmament depends on the online account service. Its bonuses are also inactive in a session that has lost the account's active online seat to another tab or device.
+Firmament depends on the online account service. Its bonuses are also inactive in a session that has lost the account's active online seat to another tab or device.[^live]
 
 ### Duels and Arena
 
 > [!IMPORTANT]
 > All Combat star bonuses are disabled during duels and Arena fights, not only bonuses to damage.
 
-The restriction includes combat attributes and skills, additional maximum Health and Spell Points, regeneration, armour, resistances, evasion, casting speed, spell costs, and other combat-related effects. Craft star bonuses remain active while the character is online.
+The restriction includes combat attributes and skills, additional maximum Health and Spell Points, regeneration, armour, resistances, evasion, casting speed, spell costs, and other combat-related effects. Craft star bonuses remain active while the character is online.[^powers]
 
 ### Open-world PvP and sieges
 
 Combat stars are not globally disabled in open-world PvP areas or sieges. General effects, including modifications to attributes, maximum Health and Spell Points, and spellcasting, can remain active outside duels and Arena fights.
 
-However, **weapon attacks and spells targeting another player are calculated without Firmament bonuses**. This excludes Firmament's contributions from the relevant player-targeted attack calculations; it does not mean that every combat-related character effect is deactivated throughout the area.
+However, **weapon attacks and spells targeting another player are calculated without Firmament bonuses**. This excludes Firmament's contributions from the relevant player-targeted attack calculations; it does not mean that every combat-related character effect is deactivated throughout the area.[^powers]
 
 Player damage also follows separate PvP rules. Player attacks remove a proportion of the defender's Health, so additional maximum Health does not automatically provide the same protection against players that it provides against non-player enemies.
 
-Combat bonuses continue to apply against monsters in PvP-enabled areas, including the Wrothgarian Mountains. Defeating another player does not trigger Firmament's Health or Spell Point recovery effects associated with defeating enemies.
+Combat bonuses continue to apply against monsters in PvP-enabled areas, including the Wrothgarian Mountains. Defeating another player does not trigger Firmament's Health or Spell Point recovery effects associated with defeating enemies.[^powers][^pvp]
 
 ### Mentoring
 
-Combat star bonuses are reduced according to the mentoring system's power scale. Craft star bonuses retain their full strength.
+Combat star bonuses are reduced according to the mentoring system's power scale. Craft star bonuses retain their full strength.[^live]
 
 ### Bonus caps
 
-Firmament limits the combined bonuses from allocated stars. These limits apply to the entire allocation, including notables and keystones.
+Firmament limits the combined bonuses from allocated stars. These limits apply to the entire allocation, including notables and keystones.[^law]
 
 | Effect | Maximum Firmament contribution |
 |---|---|
@@ -199,22 +199,18 @@ Percentage-based bonuses to maximum Health and Spell Points are limited to 15% e
 
 Weapon damage bonuses are capped both individually and when combined. Conditional bonuses can raise the total to 50%. General and school-specific spell cost reductions share a combined cap of 25%.
 
-Firmament can increase attributes beyond their normal maximum of 100, subject to the applicable bonus cap.
+Firmament can increase attributes beyond their normal maximum of 100, subject to the applicable bonus cap.[^law]
 
 ### Online status
 
-The Summary panel can display the bonuses of an allocation even when they are inactive. Its status message identifies an offline session, unloaded server data, an unaccepted birthsign, a duel or Arena fight, mentoring, or an active tree.
+The Summary panel can display the bonuses of an allocation even when they are inactive. Its status message identifies an offline session, unloaded server data, an unaccepted birthsign, a duel or Arena fight, mentoring, or an active tree.[^live]
 
-The online account service validates accepted changes, including point balances, connections, and refund costs. Invalid allocations are rejected.
+The online account service validates accepted changes, including point balances, connections, and refund costs. Invalid allocations are rejected.[^server]
 
-## Sources
-
-The implementation was verified against Update 0.0.466 (`app-v0.1.12948`).
-
-- [Firmament tree and birthsigns](https://github.com/Lattymoy/daggerfall-js-source/blob/app-v0.1.12948/src/net/firmament/firmamentTree.js)
-- [Points, allocation rules, refunds, and caps](https://github.com/Lattymoy/daggerfall-js-source/blob/app-v0.1.12948/src/net/firmament/firmamentLaw.js)
-- [Interface, controls, and terminology](https://github.com/Lattymoy/daggerfall-js-source/blob/app-v0.1.12948/src/ui/firmamentWindow.js)
-- [Online status and mentoring](https://github.com/Lattymoy/daggerfall-js-source/blob/app-v0.1.12948/src/systems/firmamentLive.js)
-- [Combat effects and PvP restrictions](https://github.com/Lattymoy/daggerfall-js-source/blob/app-v0.1.12948/src/systems/firmamentPowers.js)
-- [Server-side validation and respecs](https://github.com/Lattymoy/daggerfall-js-source/blob/app-v0.1.12948/server-account/src/firmament.js)
-- [Update 0.0.461: Player fights](https://github.com/Lattymoy/daggerfall-js-source/releases/tag/app-v0.1.12919)
+[^tree]: [Firmament tree and birthsigns](https://github.com/Lattymoy/daggerfall-js-source/blob/app-v0.1.13063/src/net/firmament/firmamentTree.js)
+[^law]: [Points, allocation rules, refunds, and caps](https://github.com/Lattymoy/daggerfall-js-source/blob/app-v0.1.13063/src/net/firmament/firmamentLaw.js)
+[^controls]: [Interface, controls, and terminology](https://github.com/Lattymoy/daggerfall-js-source/blob/app-v0.1.13063/src/ui/firmamentWindow.js)
+[^live]: [Online status and mentoring](https://github.com/Lattymoy/daggerfall-js-source/blob/app-v0.1.13063/src/systems/firmamentLive.js)
+[^powers]: [Combat effects and PvP restrictions](https://github.com/Lattymoy/daggerfall-js-source/blob/app-v0.1.13063/src/systems/firmamentPowers.js)
+[^server]: [Server-side validation and respecs](https://github.com/Lattymoy/daggerfall-js-source/blob/app-v0.1.13063/server-account/src/firmament.js)
+[^pvp]: [Update 0.0.461: Player fights](https://github.com/Lattymoy/daggerfall-js-source/releases/tag/app-v0.1.12919)
