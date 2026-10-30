@@ -11,7 +11,7 @@ related: topic:Renown
 >
 > The initial commit of this page was prepared with the assistance of AI tools. Readers are encouraged to verify the information against the game and official sources, and to contribute corrections and improvements.
 
-![The online HUD showing Magicka, Health, Fatigue and the Renown XP bar at level 16.](images/renown-hud.png "Renown progress in the HUD."){right 420}
+![The HUD with a yellow Renown XP bar along the bottom and the Renown level shown to its left.](images/renown-hud.png "The yellow bar at the bottom shows Renown XP progress; the level appears to its left."){right 420}
 
 Renown is a separate progression level earned through online activities. It exists alongside the character's normal Daggerfall level and provides additional maximum health and Magicka during online play.
 
